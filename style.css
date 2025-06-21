@@ -208,13 +208,14 @@ img {
     display: flex;
     justify-content: center;
     margin-top: 95px;
-    gap: 100px;
+    gap: 10px;
 }   
 
 .logos {
     width: 300px;
     height: 300px;
-}
+    margin-right: -60px;
+}   
 
 .logosins {
     width: 200px;
@@ -368,6 +369,7 @@ img {
     .logos {
         width: 200px;
         height: auto;
+        margin-right: 10px;
     }
 
     .logosins {
