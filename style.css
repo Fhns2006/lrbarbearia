@@ -297,8 +297,9 @@ img {
     }
 
     .linkmenu {
-        font-size: 16px;
+        font-size: 13px;
         margin-right: -3px;
+        margin-left: 3px;
     }
 
     .img {
@@ -400,5 +401,8 @@ img {
         margin-left: 17px;
     }
 
+    .TOPO {
+        margin-left: 1px;
+    }
 
 }
